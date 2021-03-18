@@ -7,4 +7,4 @@
 🧪 - I've recently started working on a social media platform called "Stemlio" with a growing team of 4 people.
 
 My passion is programming and my goal is to eventually achieve a proficient level in that area.
-I would also like to pursue a computer science major in college (Hopefully that works out!) :)
+I would also like to pursue a computer science major in college.
