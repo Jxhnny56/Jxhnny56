@@ -4,7 +4,7 @@
 
 🌱 - I’m currently learning Python and I'm at an intermediate skill level when it comes to programming in general.
 
-🧪 - I've recently started working on a social media platform called "Stemlio" with a growing team of 4 people (hopefully more soon).
+🧪 - I've recently started working on a social media platform called "Stemlio" with a growing team of 4 people.
 
 My passion is programming and my goal is to eventually achieve a proficient level.
 I would also like to pursue a computer science major in college (Hopefully that works out!) :)
